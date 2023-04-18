@@ -22,8 +22,8 @@ jobs:
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-       - name: Step 1
-         run:  my first repo
+       - name: display the content
+         run : Hello World
        
 
        
